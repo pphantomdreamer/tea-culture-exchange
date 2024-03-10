@@ -1,0 +1,24 @@
+{
+  "name": "tea-culture-exchange",
+  "version": "1.0.0",
+  "description": "tea-culture-exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pphantomdreamer/tea-culture-exchange.git"
+  },
+  "dependencies": {
+    "tea-demo-arsen": "1.0.1",
+    "tea-farming-innovation": "1.0.1",
+    "tea-event-networking": "1.0.0"
+  },
+  "author": "ppdreamer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pphantomdreamer/tea-culture-exchange/issues"
+  },
+  "homepage": "https://github.com/pphantomdreamer/tea-culture-exchange#readme"
+}
